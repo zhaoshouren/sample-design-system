@@ -1,3 +1,10 @@
+# @zs/cra-template-redux
+
+fork of [reduxjs/redux-templates/packages/cra-template-redux](https://github.com/reduxjs/redux-templates/tree/master/packages)
+
+
+*reduxjs/redux-templates/packages/cra-template-redux/README.md*
+---
 # cra-template-redux
 
 ![build status](https://img.shields.io/github/workflow/status/reduxjs/cra-template-redux/Tests/master?style=flat-square)

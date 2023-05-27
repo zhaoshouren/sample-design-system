@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-redux",
+  "name": "@zs/cra-template-redux",
   "version": "2.0.0",
   "scripts": {
     "format": "prettier --write ./template/src/**/*.js",
@@ -15,18 +15,18 @@
     "redux-toolkit",
     "react-redux"
   ],
-  "description": "The official Redux+JS template for Create React App.",
+  "description": "The ZS fork of Official Redux+JS template for Create React App.",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reduxjs/cra-template-redux.git"
+    "url": "https://github.com/zhaoshouren/sample-design-system.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8"
   },
   "bugs": {
-    "url": "https://github.com/reduxjs/cra-template-redux/issues"
+    "url": "https://github.com/zhaoshouren/sample-design-system/issues"
   },
   "files": [
     "template",

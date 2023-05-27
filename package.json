@@ -2,7 +2,9 @@
   "name": "root",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "packages/sample-apps/*",
+    "packages/templates/*"
   ],
   "devDependencies": {
     "@babel/preset-env": "^7.22.2",

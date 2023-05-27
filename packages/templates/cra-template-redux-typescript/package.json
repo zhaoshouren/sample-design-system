@@ -16,18 +16,18 @@
     "reduxjs",
     "react-redux"
   ],
-  "description": "The official Redux+TS template for Create React App",
+  "description": "The ZS fork of Official Redux+TS template for Create React App",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reduxjs/cra-template-redux-typescript.git"
+    "url": "https://github.com/zhaoshouren/sample-design-system.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/reduxjs/cra-template-redux-typescript/issues"
+    "url": "https://github.com/zhaoshouren/sample-design-system.git/issues"
   },
   "files": [
     "template",
